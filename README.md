@@ -14,7 +14,7 @@ This demo includes:
 
 ## 🧰 Tech Stack
 
-- Java 17
+- Java 23
 - Spring Boot 3.x
 - Maven
 - REST Controller architecture
